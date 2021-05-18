@@ -11,4 +11,4 @@ favorite_films = ["The Dark Knight", "Interstellar", "Your Name"]
 
 favorite_films.shift
 
-animal.size
+p animal.size
