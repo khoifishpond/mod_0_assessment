@@ -1,5 +1,7 @@
 animal = "cat"
 
+animal = "dog"
+
 is_cuddly = true
 
 num_8 = 8
