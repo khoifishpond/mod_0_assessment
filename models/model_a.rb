@@ -5,6 +5,6 @@ laptop = {
   size: 13,
   has_touchbar: true,
   has_apple_care: false,
-  owner: ["Khoi", "Nguyen"],
+  users: ["Khoi", "Kathy", "Duy"],
   delivered_on: [4, 20, 2021]
 }
